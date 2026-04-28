@@ -23,7 +23,7 @@ El documento guía al usuario desde:
 
 El manual está diseñado para **usuarios sin experiencia previa**, con un enfoque práctico y progresivo.
 
-Adicionalmente, se agrega al repositorio un manual de ensamble en PDF para el CNC 1610 en caso de requerir modificaciones de hardware.
+Adicionalmente, se incluye en el repositorio un manual de ensamblaje en formato PDF para el CNC 1610, el cual puede consultarse en caso de requerir modificaciones de hardware.
 
 ---
 
