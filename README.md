@@ -23,6 +23,8 @@ El documento guía al usuario desde:
 
 El manual está diseñado para **usuarios sin experiencia previa**, con un enfoque práctico y progresivo.
 
+Adicionalmente, se agrega al repositorio un manual de ensamble en PDF para el CNC 1610 en caso de requerir modificaciones de hardware.
+
 ---
 
 ## 📂 Contenido del repositorio
@@ -31,6 +33,7 @@ El manual está diseñado para **usuarios sin experiencia previa**, con un enfoq
 .
 ├── PDF/
 │   └── Manual_CNC.pdf
+│   └── Manual_Ensamble.pdf
 ├── KiCad/
 │   └── Archivos del tutorial/
 │       └── oscilador_555/
