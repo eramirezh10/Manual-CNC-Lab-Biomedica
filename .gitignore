@@ -1,0 +1,14 @@
+# Archivos temporales
+*.tmp
+*.bak
+*-backup*
+*-backups/
+
+# Ejecutables (NO subir instaladores)
+*.exe
+*.msi
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
